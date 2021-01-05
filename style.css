@@ -18,11 +18,11 @@
     width: 98%;
 }
 
-#result {
+.output {
     background-color: #000;
     height: 98%;
     width: 98%;
     border-radius: 4px;
-    margin: auto;
     color: white;
+    margin-bottom: 2px;
 }
